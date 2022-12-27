@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "private": true,
-  "homepage": "https://brucelaner.github.io",
+  "homepage": "https://brucelancer.github.io",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
